@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6db98375-bcb2-4f4e-bb85-8bd4d52d55b4" name="Default Changelist" comment="" />
+    <list default="true" id="6db98375-bcb2-4f4e-bb85-8bd4d52d55b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/app/.flake8.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/.flake8.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +49,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/app/.flake8.py">
+        <entry file="file://$PROJECT_DIR$/app/.flake8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -100,12 +102,6 @@
             <path>
               <item name="recipe-app-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="recipe-app-api" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipe-app-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recipe-app-api" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -214,10 +210,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app/.flake8.py">
+    <entry file="file://$PROJECT_DIR$/app/.flake8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
